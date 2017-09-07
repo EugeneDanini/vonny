@@ -10,7 +10,7 @@ setup(
     author='Eugene Danini',
     author_email='e.danini@gmail.com',
     url="https://github.com/EugeneDanini/vonny",
-    download_url='https://github.com/EugeneDanini/vonny/blob/master/dist/{}.tar.gz'.format(vonny.__version__),
+    download_url='https://github.com/EugeneDanini/vonny/raw/master/dist/vonny-{}.tar.gz'.format(vonny.__version__),
     keywords=['humour', 'vonny', 'text'],
     classifiers=[
         'Programming Language :: Python :: 3',

@@ -13,10 +13,14 @@ Installation and usage
 
     $ pip install vonny
 
+or
+
 .. code-block:: bash
 
     $ pip install dist/vonny-1.0.0.tar.gz
 
+
+then
 
 .. code-block:: python
 

@@ -1,0 +1,4 @@
+include README.txt
+include README.rst
+include vonny/__init__.py
+include vonny/utils.py

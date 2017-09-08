@@ -1,2 +1,0 @@
-Vonny package
-Text vonnytization

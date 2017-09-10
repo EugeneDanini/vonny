@@ -5,6 +5,9 @@ Text vonnytization
 ------------------
 (supports cyrillic and latin)
 
+.. image:: https://github.com/EugeneDanini/vonny/raw/master/vonny.jpg
+    :alt: Vonny
+
 Installation and usage
 ----------------------
 
@@ -13,11 +16,11 @@ Installation and usage
 
     $ pip install vonny
 
-or
+or (replace * with proper version)
 
 .. code-block:: bash
 
-    $ pip install dist/vonny-1.0.2.tar.gz
+    $ pip install dist/vonny-*.tar.gz
 
 
 then

@@ -3,10 +3,13 @@ Text vonnytization (supports cyrillic and latin)
 
 Installation:
 $ pip install vonny
-or
-$ pip install dist/vonny-1.0.2.tar.gz
+or (replace * with proper version)
+$ pip install dist/vonny-*.tar.gz
 
 Usage:
->>> from vonny.utils import vonnytize
+>>> from vonny import vonnytize
 >>> print(vonnytize('Hello, World!'))
 Hllo, Wrld!
+or
+$ python vonny "Hello, world!"
+Hllo, wrld!

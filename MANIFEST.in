@@ -1,5 +1,6 @@
 include README.txt
 include README.rst
 include vonny/__init__.py
-include vonny/utils.py
+include vonny/__main__.py
+include vonny.jpg
 include setup.py

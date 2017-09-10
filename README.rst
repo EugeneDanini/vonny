@@ -27,6 +27,14 @@ then
 
 .. code-block:: python
 
-    >>> from vonny.utils import vonnytize
+    >>> from vonny import vonnytize
     >>> print(vonnytize('Hello, World!'))
     Hllo, Wrld!
+
+
+or
+
+.. code-block:: bash
+
+    $ python vonny "Hello, world!"
+    Hllo, wrld!
